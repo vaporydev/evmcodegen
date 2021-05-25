@@ -1,4 +1,4 @@
-# evmcodegen
+# vvmcodegen
 
 Ever wanted to generate and manipulate ethereum evm bytecode? This is your chance.
 
